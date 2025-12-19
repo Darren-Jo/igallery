@@ -94,3 +94,8 @@ h2 {
 }
 
 ```
+## OUTPUT:
+<img width="1208" height="1468" alt="exp8output" src="https://github.com/user-attachments/assets/6124c8d1-9625-4f19-a78b-ab6ced291462" />
+
+## RESULT:
+The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
